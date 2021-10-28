@@ -12,4 +12,4 @@ Penjelasan program :
                    
                    
 # Berikut adalah gambar dari screnshoot contoh hasil dari ptyhon di atas
- C:\Users\VIONA RACHMA\Pictures\Saved Pictures         
+(https://pengguna-gambar. githubusercontent. com/C:/Users/VIONA RACHMA/Pictures/Saved Pictures)         
