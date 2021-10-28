@@ -6,6 +6,9 @@ Penjelasan program :
  3. perintah cetak("sekian perkenalan singkatku, Terima kasih")
                    
                    
-# Berikut adalah gambar dari screnshoot contoh hasil dari ptyhon di atas
-(https://pengguna-gambar. githubusercontent. com/C:/Users/VIONA RACHMA/Pictures/Saved Pictures)         
-© 2021 GitHub, Inc
+Berikut adalah gambar dari screnshoot contoh hasil dari ptyhon di atas
+(https://pengguna-gambar. githubusercontent. com/C:\Users\VIONA RACHMA\Pictures\Saved Pictures)         
+
+
+# Hasil dari output pythonlatihan 1.py
+https://user-images.githubusercontent.com/92939686/138987398-774cdfd6-d46b-4886-af6f-b6fd14f884bb.png
